@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Full Stack Development, AI, etc**
 - 👀 I’m interested in **[Database, Open Source, Cloud Technologies]**
 - 💞️ I’m looking to collaborate on **[open-source projects, startups, or innovative tech ideas]**
-- 📫 Reach me via [your email](mailto:binhmetal05@gamil.com)
+- 📫 Reach me via [Truong Cong Binh](mailto:binhmetal05@gamil.com)
 
 
 ---
