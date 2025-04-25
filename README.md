@@ -10,12 +10,11 @@
 
 <!-- About Me Section -->
 ## 👩‍💻 About Me
-- 🌱 I’m currently learning **[add what you're learning, e.g., Full Stack Development, AI, etc.]**
-- 👀 I’m interested in **[e.g., Web Development, Open Source, Cloud Technologies]**
+- 🌱 I’m currently learning **Full Stack Development, AI, etc**
+- 👀 I’m interested in **[Database, Open Source, Cloud Technologies]**
 - 💞️ I’m looking to collaborate on **[open-source projects, startups, or innovative tech ideas]**
-- 📫 Reach me via [your email](mailto:youremail@example.com) or [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 😄 Pronouns: **[He/Him, She/Her, They/Them]**
-- ⚡ Fun fact: **[Share a fun fact about yourself!]**
+- 📫 Reach me via [your email](mailto:binhmetal05@gamil.com)
+
 
 ---
 
@@ -59,7 +58,7 @@
   <a href="https://linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:binhmetal05@gmail.com.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/yourhandle" target="_blank">
@@ -73,10 +72,7 @@
 ---
 
 <!-- Fun Section -->
-## 🎉 Fun & Extras
-- 🔗 **[My Blog](https://yourblog.com)**: Sharing thoughts, tutorials, and more!  
-- 🎨 **Hobbies**: [e.g., photography, gaming, traveling]  
-- 🧩 **Fun Activities**: [e.g., building side projects, exploring new tech]
+
 
 ---
 
