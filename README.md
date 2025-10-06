@@ -43,6 +43,11 @@
 
 ---
 
+## 📜 Chứng chỉ
+
+![AWS Academy Cloud Foundation](/aws-cert.png)
+
+
 ## 🌐 Kết nối cùng mình
 
 <p align="center">
